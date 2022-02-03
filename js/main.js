@@ -1,15 +1,15 @@
-let name;
-name='dowolna';
-console.log('dowolna');
+let number1 = 102;
 
-let dowolna;
-dowolna='12';
-console.log('12');
+console.log(number1);
 
-const nr = prompt(12);
-if(12>10){
+let number2 = 12;
+
+console.log(number2);
+
+// const nr = prompt(12);
+if (number2 > 10) {
   console.log('podana liczba jest wieksza od 10');
 }
-else{
+else {
   console.log("falsch");
 }
